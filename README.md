@@ -6,3 +6,5 @@ homework#4 figure 모듈 구현
 
 ## 2024-06-17
 git branch 실행
+
+devC branch에서 README.md 파일 수정
